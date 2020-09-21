@@ -19,7 +19,8 @@ def train_size(num, df):
 
 data = yf.Ticker('MSFT')
 
-data_hist = data.history(start='2010-01-01')
+data_hist = data.history(period="max")
+print(data_hist.head())
 df = drop_columns(data_hist)
 print(df.shape)
 train = df[:train_size(time_series, df)]
@@ -38,7 +39,6 @@ rms = np.sqrt(np.mean(np.power((np.array(valid['Close'])-preds), 2)))
 print(f'RMSE value: {rms}')
 
 df_2 = pd.DataFrame(index=valid.index, data=preds, columns=['Close'])
-print(df_2.head())
 
 plt.plot(train['Close'])
 plt.plot(df_2)
