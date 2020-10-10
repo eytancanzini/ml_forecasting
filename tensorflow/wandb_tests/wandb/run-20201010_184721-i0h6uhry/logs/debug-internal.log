@@ -1600,3 +1600,82 @@
 2020-10-10 19:30:31,979 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
 2020-10-10 19:30:32,144 DEBUG   Thread-9  :42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /files/eytancanzini/ml-forecast-stock-price/i0h6uhry/file_stream HTTP/1.1" 200 None
 2020-10-10 19:30:37,020 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:30:42,049 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:30:44,128 DEBUG   HandlerThread:42396 [handler.py:handle_request():54] handle_request: status
+2020-10-10 19:30:44,129 DEBUG   SenderThread:42396 [sender.py:send():88] send: request
+2020-10-10 19:30:44,129 DEBUG   SenderThread:42396 [sender.py:send_request():97] send_request: status
+2020-10-10 19:30:44,131 DEBUG   SenderThread:42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): api.wandb.ai:443
+2020-10-10 19:30:44,383 DEBUG   SenderThread:42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2020-10-10 19:30:47,081 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:30:52,125 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:30:57,151 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:30:59,395 DEBUG   HandlerThread:42396 [handler.py:handle_request():54] handle_request: status
+2020-10-10 19:30:59,395 DEBUG   SenderThread:42396 [sender.py:send():88] send: request
+2020-10-10 19:30:59,396 DEBUG   SenderThread:42396 [sender.py:send_request():97] send_request: status
+2020-10-10 19:30:59,398 DEBUG   SenderThread:42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): api.wandb.ai:443
+2020-10-10 19:30:59,878 DEBUG   SenderThread:42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2020-10-10 19:31:02,190 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:31:02,369 DEBUG   Thread-9  :42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /files/eytancanzini/ml-forecast-stock-price/i0h6uhry/file_stream HTTP/1.1" 200 None
+2020-10-10 19:31:07,218 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:31:12,252 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:31:14,893 DEBUG   HandlerThread:42396 [handler.py:handle_request():54] handle_request: status
+2020-10-10 19:31:14,893 DEBUG   SenderThread:42396 [sender.py:send():88] send: request
+2020-10-10 19:31:14,894 DEBUG   SenderThread:42396 [sender.py:send_request():97] send_request: status
+2020-10-10 19:31:14,896 DEBUG   SenderThread:42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): api.wandb.ai:443
+2020-10-10 19:31:15,122 DEBUG   SenderThread:42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2020-10-10 19:31:17,292 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:31:22,316 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:31:27,354 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:31:30,132 DEBUG   HandlerThread:42396 [handler.py:handle_request():54] handle_request: status
+2020-10-10 19:31:30,132 DEBUG   SenderThread:42396 [sender.py:send():88] send: request
+2020-10-10 19:31:30,133 DEBUG   SenderThread:42396 [sender.py:send_request():97] send_request: status
+2020-10-10 19:31:30,135 DEBUG   SenderThread:42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): api.wandb.ai:443
+2020-10-10 19:31:30,387 DEBUG   SenderThread:42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2020-10-10 19:31:32,398 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:31:32,587 DEBUG   Thread-9  :42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /files/eytancanzini/ml-forecast-stock-price/i0h6uhry/file_stream HTTP/1.1" 200 None
+2020-10-10 19:31:37,433 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:31:42,474 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:31:45,397 DEBUG   HandlerThread:42396 [handler.py:handle_request():54] handle_request: status
+2020-10-10 19:31:45,397 DEBUG   SenderThread:42396 [sender.py:send():88] send: request
+2020-10-10 19:31:45,398 DEBUG   SenderThread:42396 [sender.py:send_request():97] send_request: status
+2020-10-10 19:31:45,400 DEBUG   SenderThread:42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): api.wandb.ai:443
+2020-10-10 19:31:45,666 DEBUG   SenderThread:42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2020-10-10 19:31:47,572 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:31:52,646 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:31:52,956 WARNING MainThread:42396 [internal.py:is_dead():284] Internal process exiting, parent pid 43664 disappeared
+2020-10-10 19:31:52,957 ERROR   MainThread:42396 [internal.py:wandb_internal():112] Internal process shutdown.
+2020-10-10 19:31:53,651 INFO    SenderThread:42396 [sender.py:finish():583] shutting down sender
+2020-10-10 19:31:53,651 INFO    WriterThread:42396 [datastore.py:close():257] close: wandb\run-20201010_184721-i0h6uhry\run-i0h6uhry.wandb
+2020-10-10 19:31:53,651 INFO    SenderThread:42396 [dir_watcher.py:finish():253] shutting down directory watcher
+2020-10-10 19:31:53,651 INFO    HandlerThread:42396 [handler.py:finish():267] shutting down handler
+2020-10-10 19:31:54,536 INFO    SenderThread:42396 [dir_watcher.py:finish():282] scan: wandb\run-20201010_184721-i0h6uhry\files
+2020-10-10 19:31:54,537 INFO    SenderThread:42396 [dir_watcher.py:finish():288] scan save: wandb\run-20201010_184721-i0h6uhry\files\config.yaml config.yaml
+2020-10-10 19:31:54,537 INFO    SenderThread:42396 [dir_watcher.py:finish():288] scan save: wandb\run-20201010_184721-i0h6uhry\files\output.log output.log
+2020-10-10 19:31:54,538 INFO    SenderThread:42396 [dir_watcher.py:finish():288] scan save: wandb\run-20201010_184721-i0h6uhry\files\requirements.txt requirements.txt
+2020-10-10 19:31:54,541 INFO    SenderThread:42396 [dir_watcher.py:finish():288] scan save: wandb\run-20201010_184721-i0h6uhry\files\wandb-metadata.json wandb-metadata.json
+2020-10-10 19:31:54,542 INFO    SenderThread:42396 [dir_watcher.py:finish():288] scan save: wandb\run-20201010_184721-i0h6uhry\files\wandb-summary.json wandb-summary.json
+2020-10-10 19:31:54,545 DEBUG   Thread-18 :42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): api.wandb.ai:443
+2020-10-10 19:31:54,548 INFO    SenderThread:42396 [file_pusher.py:finish():169] shutting down file pusher
+2020-10-10 19:31:54,549 INFO    SenderThread:42396 [file_pusher.py:join():174] waiting for file pusher
+2020-10-10 19:31:54,549 DEBUG   Thread-19 :42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): api.wandb.ai:443
+2020-10-10 19:31:54,550 DEBUG   Thread-20 :42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): api.wandb.ai:443
+2020-10-10 19:31:54,554 DEBUG   Thread-21 :42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): api.wandb.ai:443
+2020-10-10 19:31:54,818 DEBUG   Thread-19 :42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2020-10-10 19:31:54,823 DEBUG   Thread-19 :42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): storage.googleapis.com:443
+2020-10-10 19:31:54,831 DEBUG   Thread-18 :42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2020-10-10 19:31:54,834 DEBUG   Thread-21 :42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2020-10-10 19:31:54,837 DEBUG   Thread-18 :42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): storage.googleapis.com:443
+2020-10-10 19:31:54,846 DEBUG   Thread-21 :42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): storage.googleapis.com:443
+2020-10-10 19:31:54,863 DEBUG   Thread-20 :42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2020-10-10 19:31:54,873 DEBUG   Thread-20 :42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): storage.googleapis.com:443
+2020-10-10 19:31:55,247 DEBUG   Thread-21 :42396 [connectionpool.py:_make_request():433] https://storage.googleapis.com:443 "PUT /wandb-production.appspot.com/eytancanzini/ml-forecast-stock-price/i0h6uhry/wandb-summary.json?Expires=1602441116&GoogleAccessId=gorilla-cloud-storage%40wandb-production.iam.gserviceaccount.com&Signature=G8F9M%2FbJ2I4j%2FeWr1T996ackKKMXSVvCixTzL6%2FRiEgF%2FET56IK3jmCh4vuiNk836pFnMWCdO%2FwTNhDXG6d7AQRYmLOEV6IHnwiz07AB8n%2F7Mj1RhzHPiKJB8gZzxKDccAats48C%2BmYILnRXi6Tzvaz%2F%2BBhxl7uclSyodLQgGsSwtxf0C9KuOaHIxTtQOtmoiXptGuoabTUviyENGiMb1wvWTsBzKb22fleiAJYTYp%2FESV0xT8QyIT9Wu3rE2N2NOv%2FP%2BrdG3rpe%2FleEkTPM7VlAtGRdvTUCnI7Wijgk0Wtcw9HtHlMLaoqvcvXBnuVy6GK2Qeh4l%2FGIQ08ZpSkZyw%3D%3D HTTP/1.1" 200 0
+2020-10-10 19:31:55,250 INFO    Thread-21 :42396 [upload_job.py:push():112] Uploaded file wandb\run-20201010_184721-i0h6uhry\files\wandb-summary.json
+2020-10-10 19:31:55,298 DEBUG   Thread-18 :42396 [connectionpool.py:_make_request():433] https://storage.googleapis.com:443 "PUT /wandb-production.appspot.com/eytancanzini/ml-forecast-stock-price/i0h6uhry/config.yaml?Expires=1602441116&GoogleAccessId=gorilla-cloud-storage%40wandb-production.iam.gserviceaccount.com&Signature=L4AythOLs6cOyfmHyrBfkWHKumDhiYaU%2F7MazC6gOnY%2BMvF%2FzyC3uoXnT9uuT%2FWjro0ry7ln2Wa%2FvmRnl2jFMIH9d2ca0vS0YEDlNxoA2rRY%2FOZv5GYUH81zIhN7PyaBT%2FHW%2FQCyXA37a7q%2FHpZIwnx7SjFZ9QGlVlkTFlm4FdaARMKkOOR%2Bwopo3rEz4bup4eCxZsTcL8rjvgZdyNbl85SYRAzvo5XezB%2BrZ19d1%2BbrSrzCFniUjzbj0WhP4%2BYRLH4tI9IA%2FAN%2FBRbCSVxZY4k2WaKhL%2F9ZztJVSS6kKgDFWr3FJ7Bpu13JIvfgAx6ip86tG8yllGi7C0XV%2BhDhpw%3D%3D HTTP/1.1" 200 0
+2020-10-10 19:31:55,300 INFO    Thread-18 :42396 [upload_job.py:push():112] Uploaded file wandb\run-20201010_184721-i0h6uhry\files\config.yaml
+2020-10-10 19:31:55,367 DEBUG   Thread-20 :42396 [connectionpool.py:_make_request():433] https://storage.googleapis.com:443 "PUT /wandb-production.appspot.com/eytancanzini/ml-forecast-stock-price/i0h6uhry/requirements.txt?Expires=1602441116&GoogleAccessId=gorilla-cloud-storage%40wandb-production.iam.gserviceaccount.com&Signature=BKUkiIEOtd49xabQoFds2h0jfrS8Ho5MqhkPmT0C86qxoB%2BFayZA3DoSh6FvaC4LCdvRQeGpCGZ7MI5IbW%2BB077a0gzrk7LclMcsA9yR%2B%2BrUuicLu0G%2FL5xWrfaN%2BtgvcgN%2BF%2BAUvGlTUSsO9T4nTGPvNErM23l8jsb46A0Juco1nI0H6sOFiL4cqFBwjgBUFEyafRHBRix3WgatlsY4w62Hnrk2HfIyLKN%2B%2FVesqFRETPnBVQQmIlpHZUp6jq7hvmJCBqnX7QZRkKDovCO75vYhkiiAb0VGv2ILJsGFoytikhjFp94HWpfn%2FcN8qhzUgAfYnNAF3B%2BkRrAQJoXQng%3D%3D HTTP/1.1" 200 0
+2020-10-10 19:31:55,369 INFO    Thread-20 :42396 [upload_job.py:push():112] Uploaded file wandb\run-20201010_184721-i0h6uhry\files\requirements.txt
+2020-10-10 19:31:57,562 DEBUG   Thread-19 :42396 [connectionpool.py:_make_request():433] https://storage.googleapis.com:443 "PUT /wandb-production.appspot.com/eytancanzini/ml-forecast-stock-price/i0h6uhry/output.log?Expires=1602441116&GoogleAccessId=gorilla-cloud-storage%40wandb-production.iam.gserviceaccount.com&Signature=p6o9K%2FLbSb%2FfLa18XuU%2FabzhLfg2uXVzG5TTRUZl4cDeaebAEGh0pLN52lY9UcpjHoswvL1oeJTPyDDydX0%2Bdwl6Qmo%2BAhYgTsNAZpw%2BN%2FOnGeWOBj1DwOQ4hrU%2FI0fGOLcDSipn7GABTw0j6NfNJyyl875jMJLj9lk3Ycsd%2FcHKuiwsNjvp4ivL6nhYCcTCXLdITF1o931J9syPVLl19dSFZsFtPwPl3LgLBwk6gLGaV%2BLkG1bn940MnAbA6evjY6mTfpg4vwmMCWXbSS3ArbWxBxLfePCfppUSnXzPo6A9VI3s6We%2FVF0d%2B4j47ODDRKtfjehqD%2FJnSbnWblR0KQ%3D%3D HTTP/1.1" 200 0
+2020-10-10 19:31:57,565 INFO    Thread-19 :42396 [upload_job.py:push():112] Uploaded file wandb\run-20201010_184721-i0h6uhry\files\output.log
+2020-10-10 19:31:58,255 DEBUG   Thread-9  :42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /files/eytancanzini/ml-forecast-stock-price/i0h6uhry/file_stream HTTP/1.1" 200 None
+2020-10-10 19:31:58,426 DEBUG   Thread-9  :42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /files/eytancanzini/ml-forecast-stock-price/i0h6uhry/file_stream HTTP/1.1" 200 None
+2020-10-10 19:31:58,429 INFO    MainThread:42396 [internal.py:handle_exit():137] Internal process exited
