@@ -1574,3 +1574,29 @@
 2020-10-10 19:29:43,243 DEBUG   SenderThread:42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
 2020-10-10 19:29:46,561 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
 2020-10-10 19:29:51,601 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:29:56,649 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:29:58,255 DEBUG   HandlerThread:42396 [handler.py:handle_request():54] handle_request: status
+2020-10-10 19:29:58,255 DEBUG   SenderThread:42396 [sender.py:send():88] send: request
+2020-10-10 19:29:58,256 DEBUG   SenderThread:42396 [sender.py:send_request():97] send_request: status
+2020-10-10 19:29:58,258 DEBUG   SenderThread:42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): api.wandb.ai:443
+2020-10-10 19:29:58,522 DEBUG   SenderThread:42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2020-10-10 19:30:01,671 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:30:01,835 DEBUG   Thread-9  :42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /files/eytancanzini/ml-forecast-stock-price/i0h6uhry/file_stream HTTP/1.1" 200 None
+2020-10-10 19:30:06,710 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:30:11,755 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:30:13,532 DEBUG   HandlerThread:42396 [handler.py:handle_request():54] handle_request: status
+2020-10-10 19:30:13,533 DEBUG   SenderThread:42396 [sender.py:send():88] send: request
+2020-10-10 19:30:13,533 DEBUG   SenderThread:42396 [sender.py:send_request():97] send_request: status
+2020-10-10 19:30:13,535 DEBUG   SenderThread:42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): api.wandb.ai:443
+2020-10-10 19:30:13,761 DEBUG   SenderThread:42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2020-10-10 19:30:16,829 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:30:21,866 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:30:26,918 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:30:28,765 DEBUG   HandlerThread:42396 [handler.py:handle_request():54] handle_request: status
+2020-10-10 19:30:28,765 DEBUG   SenderThread:42396 [sender.py:send():88] send: request
+2020-10-10 19:30:28,766 DEBUG   SenderThread:42396 [sender.py:send_request():97] send_request: status
+2020-10-10 19:30:28,768 DEBUG   SenderThread:42396 [connectionpool.py:_new_conn():939] Starting new HTTPS connection (1): api.wandb.ai:443
+2020-10-10 19:30:29,111 DEBUG   SenderThread:42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /graphql HTTP/1.1" 200 None
+2020-10-10 19:30:31,979 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
+2020-10-10 19:30:32,144 DEBUG   Thread-9  :42396 [connectionpool.py:_make_request():433] https://api.wandb.ai:443 "POST /files/eytancanzini/ml-forecast-stock-price/i0h6uhry/file_stream HTTP/1.1" 200 None
+2020-10-10 19:30:37,020 DEBUG   SenderThread:42396 [sender.py:send():88] send: stats
