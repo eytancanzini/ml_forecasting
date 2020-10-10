@@ -1,0 +1,45 @@
+2020-10-10 18:47:21,174 INFO    MainThread:43664 [wandb_init.py:_log_setup():291] Logging user logs to wandb\run-20201010_184721-i0h6uhry\logs\debug.log
+2020-10-10 18:47:21,174 INFO    MainThread:43664 [wandb_init.py:_log_setup():292] Logging internal logs to wandb\run-20201010_184721-i0h6uhry\logs\debug-internal.log
+2020-10-10 18:47:21,174 INFO    MainThread:43664 [wandb_setup.py:_flush():68] setting env: {}
+2020-10-10 18:47:21,174 INFO    MainThread:43664 [wandb_setup.py:_flush():68] setting user settings: {}
+2020-10-10 18:47:21,174 INFO    MainThread:43664 [wandb_setup.py:_flush():68] multiprocessing start_methods=spawn
+2020-10-10 18:47:21,175 INFO    MainThread:43664 [wandb_setup.py:_flush():68] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000015A060B6790>
+2020-10-10 18:47:21,175 INFO    MainThread:43664 [wandb_run.py:finish():915] finishing run eytancanzini/ml_forecasting/3d6r5yxv
+2020-10-10 18:47:21,176 INFO    MainThread:43664 [wandb_init.py:_jupyter_teardown():223] cleaning up jupyter logic
+2020-10-10 18:47:21,177 ERROR   MainThread:43664 [jupyter.py:save_history():192] Run pip install nbformat to save notebook history
+2020-10-10 18:47:21,177 INFO    MainThread:43664 [wandb_run.py:_atexit_cleanup():1164] got exitcode: 0
+2020-10-10 18:47:21,178 INFO    MainThread:43664 [wandb_run.py:_restore():1136] restore
+2020-10-10 18:47:21,205 INFO    MainThread:43664 [wandb_run.py:_wait_for_finish():1272] got exit ret: uuid: "2247308532cc4c2185f5ba9e57e09979"
+response {
+  poll_exit_response {
+    file_counts {
+      wandb_count: 1
+    }
+    pusher_stats {
+      uploaded_bytes: 1141
+      total_bytes: 1141
+    }
+  }
+}
+
+2020-10-10 18:47:23,223 INFO    MainThread:43664 [wandb_run.py:_wait_for_finish():1272] got exit ret: uuid: "b049c7befb77480cbccc7cf467c983e1"
+response {
+  poll_exit_response {
+    done: true
+    exit_result {
+    }
+    file_counts {
+      wandb_count: 5
+    }
+    pusher_stats {
+      uploaded_bytes: 3906
+      total_bytes: 3906
+    }
+  }
+}
+
+2020-10-10 18:47:24,384 INFO    MainThread:43664 [wandb_run.py:_show_files():1466] logging synced files
+2020-10-10 18:47:26,287 INFO    MainThread:43664 [wandb_run.py:_console_start():1189] atexit reg
+2020-10-10 18:47:26,287 INFO    MainThread:43664 [wandb_run.py:_redirect():1061] redirect: SettingsConsole.WRAP
+2020-10-10 18:47:26,288 INFO    MainThread:43664 [wandb_run.py:_redirect():1092] Wrapping output streams.
+2020-10-10 18:47:26,288 INFO    MainThread:43664 [wandb_run.py:_redirect():1108] Redirects installed.

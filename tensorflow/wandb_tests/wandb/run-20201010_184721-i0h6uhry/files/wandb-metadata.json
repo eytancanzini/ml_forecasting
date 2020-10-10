@@ -1,0 +1,34 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.6",
+    "heartbeatAt": "2020-10-10T17:47:26.094510",
+    "startedAt": "2020-10-10T17:47:21.170152",
+    "docker": null,
+    "gpu": "GeForce RTX 2070",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9035",
+        "--control=9033",
+        "--hb=9032",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"78ab9a01-26e3-491d-8550-a7ab83d71821\"",
+        "--shell=9034",
+        "--transport=\"tcp\"",
+        "--iopub=9036",
+        "--f=C:\\Users\\ethan\\AppData\\Local\\Temp\\tmp-16528qXNtVJB4mEl3.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/eytancanzini/ml_forecasting.git",
+        "commit": "88e0c4cdc5ab52d33b4ec769c48ab8a8967859d5"
+    },
+    "email": "ethan.canzini@gmail.com",
+    "root": "D:/Coding/ml_forecasting",
+    "host": "DESKTOP-O2HVU6G",
+    "username": "ethan",
+    "executable": "d:\\Coding\\ml_forecasting\\forecast\\Scripts\\python.exe"
+}
